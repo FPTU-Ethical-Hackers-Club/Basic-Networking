@@ -18,4 +18,8 @@
 
 - Target: http://transfer.sh/
 
-- [Source](https://github.com/antoinenguyen-09/Socket-Programming).
+- [HTTP Client GET 's Source](https://github.com/FPTU-Ethical-Hackers-Club/Basic-Networking/blob/main/source/client_get.py).
+
+- [Client Uploading 's Source](https://github.com/FPTU-Ethical-Hackers-Club/Basic-Networking/blob/main/source/download.py).
+
+- [Client Downloading 's Source](https://github.com/FPTU-Ethical-Hackers-Club/Basic-Networking/blob/main/source/upload.py).
