@@ -1,3 +1,5 @@
+# HTTP Cheat Sheet
+
 ##### 1) Request line của một HTTP request:
 
 Dòng Request Line của mỗi HTTP Request bao gồm 3 thành phần và được cách nhau bởi một khoảng trắng:
