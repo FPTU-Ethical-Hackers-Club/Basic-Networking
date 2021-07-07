@@ -16,7 +16,7 @@
 
 2) Demo:
 
-- Target: http://transfer.sh/
+- Target: http://transfer.sh/.
 
 - [HTTP Client GET 's Source](https://github.com/FPTU-Ethical-Hackers-Club/Basic-Networking/blob/main/source/client_get.py).
 
